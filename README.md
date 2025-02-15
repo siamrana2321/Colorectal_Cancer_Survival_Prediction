@@ -24,3 +24,10 @@ The dataset used for this project contains the following features:
 - Treatment Details: Chemotherapy, Radiotherapy, Surgery, Follow-Up Adherence, etc.
 - Target Variable: Survival Status (Survived/Deceased).
 
+**Technologies Used**
+- Programming Language: Python
+- Machine Learning Libraries: Scikit-learn, XGBoost
+- Web Framework: Flask
+- Frontend: HTML, CSS, JavaScript, Bootstrap
+- Data Preprocessing: Pandas, NumPy
+- Model Serialization: Joblib
