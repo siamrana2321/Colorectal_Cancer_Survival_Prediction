@@ -31,3 +31,5 @@ The dataset used for this project contains the following features:
 - Frontend: HTML, CSS, JavaScript, Bootstrap
 - Data Preprocessing: Pandas, NumPy
 - Model Serialization: Joblib
+
+![Colorectal_Cancer_Survival_Prediction](https://github.com/user-attachments/assets/bc1f0d5a-ef9a-4eb3-85e6-e43e2f35dda7)
